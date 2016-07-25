@@ -1,0 +1,4 @@
+CalculaGorjeta.MainActivity, CalculaGorjeta;md50e570255ca36ab1cf29283b65923a8c0.MainActivity
+CalculaGorjeta.MainActivity, CalculaGorjeta, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e570255ca36ab1cf29283b65923a8c0.MainActivity
+CalculaGorjeta.MainActivity;md50e570255ca36ab1cf29283b65923a8c0.MainActivity
+calculagorjeta.MainActivity;md50e570255ca36ab1cf29283b65923a8c0.MainActivity
